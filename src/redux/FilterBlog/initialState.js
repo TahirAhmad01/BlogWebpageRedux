@@ -9,7 +9,7 @@ const initialState = [
   },
   {
     id: 2,
-    title: "Boost your conversion rate",
+    title: "How to use search engine optimization to drive sales",
     categories: "computer",
     author: "Tahir Ahmad",
     date: "11 Jul, 2022",
@@ -17,7 +17,7 @@ const initialState = [
   },
   {
     id: 3,
-    title: "Boost your conversion rate",
+    title: "Improve your customer experience",
     categories: "computer",
     author: "learn with sumit",
     date: "11 Jul, 2022",
@@ -25,7 +25,7 @@ const initialState = [
   },
   {
     id: 4,
-    title: "Boost your conversion rate",
+    title: "Where to Find Guest Blogging Opportunities on Web",
     categories: "article",
     author: "Rony Ahmad",
     date: "11 Jul, 2022",
@@ -33,7 +33,7 @@ const initialState = [
   },
   {
     id: 5,
-    title: "Boost your conversion rate",
+    title: "The Worst Advice We've Ever Heard About Web",
     categories: "computer",
     author: "Tahir Ahmad",
     date: "11 Jul, 2022",
@@ -41,7 +41,7 @@ const initialState = [
   },
   {
     id: 6,
-    title: "Boost your conversion rate",
+    title: "How People Talked About Web 20 Years Ago",
     categories: "article",
     author: "Tahir Ahmad",
     date: "11 Jul, 2022",
